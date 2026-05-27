@@ -2,9 +2,6 @@
 
 Un addon ligero para contar muertes en **World of Warcraft 3.3.5a (WotLK)**.
 
-> WoW Death Counter © 2026 by Grok  
-> Licenciado bajo **CC BY-NC-SA 4.0**
-
 ---
 
 ## Características
