@@ -1,0 +1,51 @@
+====================================================
+                DEATHCOUNTER CHANGELOG
+====================================================
+
+v1.3 (2026)
+----------------------------------------------------
+NEW
+- Added Blizzard statistics synchronization
+  via /dc sync
+- Added manual initialization commands:
+  /dc ini pvp X
+  /dc ini pve X
+- Added PvP/PvE consistency validation
+- Added colored command help
+- Added addon version display in chat
+- Added PrintCmd() helper for command UI
+- Added CC BY-NC-SA 4.0 license information
+- Improved PvP/PvE death detection
+
+CHANGED
+- Sync now imports ONLY Total deaths
+- PvP/PvE initialization is manual by design
+- Command help formatting improved
+
+FIXED
+- Prevent invalid values where:
+  PvP + PvE > Total
+- Reduced false PvP detection caused by
+  unreliable server statistics IDs
+
+v1.2
+----------------------------------------------------
+- Added sync command
+- Added PvP/PvE initialization
+- Added validation logic
+- Improved combat detection
+
+v1.1
+----------------------------------------------------
+- Added Blizzard statistics support
+- Added session tracking improvements
+
+v1.0
+----------------------------------------------------
+- Initial release
+- Death counter UI
+- Persistent per character
+- PvP/PvE counters
+- Draggable frame
+- Tooltip support
+- Slash commands
