@@ -2,7 +2,7 @@
 <p align="center">
   <img src="screenshots/DeathCounter-banner.png" width="100%">
 </p>
----
+
 
 ## Características
 
