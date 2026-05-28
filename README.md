@@ -127,7 +127,6 @@ World of Warcraft/
 ## Compatibilidad
 
 - **World of Warcraft:** Wrath of the Lich King 3.3.5a
-- **Build del cliente:** 12340
 
 ---
 
