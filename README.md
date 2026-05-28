@@ -1,5 +1,9 @@
 # DeathCounter 1.3
 
+<p align="center">
+  <img src="screenshots/social-banner.png" width="100%">
+</p>
+
 Un addon ligero para contar muertes en **World of Warcraft 3.3.5a (WotLK)**.
 
 ---
@@ -115,6 +119,13 @@ World of Warcraft/
 ```
 
 ---
+## Capturas de pantalla
+
+<p align="center">
+  <img src="screenshots/1.png" width="32%">
+  <img src="screenshots/2.png" width="32%">
+  <img src="screenshots/3.png" width="32%">
+</p>
 
 ## Compatibilidad
 
