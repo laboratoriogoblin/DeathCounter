@@ -116,9 +116,10 @@ World of Warcraft/
 
 ---
 ## Capturas de pantalla
-
 <p align="center">
-  <img src="screenshots/1.png" width="32%">
+  <img src="screenshots/1.png" width="700">
+</p>
+<p align="center">
   <img src="screenshots/2.png" width="32%">
   <img src="screenshots/3.png" width="32%">
 </p>
